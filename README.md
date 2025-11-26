@@ -2,6 +2,7 @@
 A simple task list that lets you add and remove tasks. 
 
 * Features
+  
 Tasks that are marked as completed are highlighted in green. Incomplete tasks are highlighted in red
 Program can also display tasks that are due.
 
