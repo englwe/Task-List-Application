@@ -7,3 +7,7 @@ Features
 
 To run the application, create an empty project (C++) in visual studio.
 Copy main.cpp into Source Files and main.h into Header Files and build the project. Once the project is built, click "Run".
+
+Update 30/11/2025
+* Separated the classes into their respective files
+* Added function to sort due dates in ascending order.
